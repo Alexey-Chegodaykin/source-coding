@@ -49,12 +49,16 @@ To run the project, you need to have Python 3.7+.
 ### Installation
 
 1. Clone the repo
-    ```git clone https://github.com/Alexey-Chegodaykin/source-coding.git```
+```bash
+$ git clone https://github.com/Alexey-Chegodaykin/source-coding.git
+```
 
 ### Usage
 
 1. Run Python script
-    ```python main.py -file FILE -type TYPE -fmt FMT```
+```bash
+$ python main.py -file FILE -type TYPE -fmt FMT
+```
     - FILE - path to target file.
     - TYPE - type of running (0 - archivate, 1 - dearchivate).
     - FMT - dearchivate file format (default .txt).
