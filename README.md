@@ -59,6 +59,6 @@ $ git clone https://github.com/Alexey-Chegodaykin/source-coding.git
 ```bash
 $ python main.py -file FILE -type TYPE -fmt FMT
 ```
-    - FILE - path to target file.
-    - TYPE - type of running (0 - archivate, 1 - dearchivate).
-    - FMT - dearchivate file format (default .txt).
+- FILE - path to target file.
+- TYPE - type of running (0 - archivate, 1 - dearchivate).
+- FMT - dearchivate file format (default .txt).
